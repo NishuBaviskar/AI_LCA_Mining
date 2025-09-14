@@ -1,0 +1,43 @@
+# Python virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# Data and Model artifacts (should be generated, not stored)
+data/
+models/
+
+# Generated reports
+reports_output/
+
+# Environment variables
+.env
+
+# IDE and OS files
+.idea/
+.vscode/
+*.DS_Store
+
+```
+# Python virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# Data should be generated, not stored
+data/
+
+# Generated reports
+reports_output/
+
+# Environment variables
+.env
+
+# IDE and OS files
+.idea/
+.vscode/
+*.DS_Store
+```
+*The key change is that the `models/` line has been deleted.*
+
+---
