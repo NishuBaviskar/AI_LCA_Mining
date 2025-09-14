@@ -1,4 +1,4 @@
-# Main Libraries (versions will be resolved by the server)
+Main Libraries (versions will be resolved by the server)
 fastapi
 uvicorn
 pydantic
