@@ -186,7 +186,7 @@ def toggle_chat():
 
 # --- MAIN APP UI ---
 st.title("♻️ AI-Powered LCA Tool for Metallurgy & Mining")
-st.markdown("An interactive tool by team Pune, Maharashtra for Smart India Hackathon 2025.")
+st.markdown("")
 
 # --- Load the model once at the start ---
 model = load_model()
